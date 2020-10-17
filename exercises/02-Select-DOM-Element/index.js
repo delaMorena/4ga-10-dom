@@ -1,2 +1,3 @@
 //your code here
-document.querySelector(h1).alert;
+let aux = document.querySelector("#theTitle");
+alert(aux.id);
